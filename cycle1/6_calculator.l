@@ -3,7 +3,7 @@
 #include<stdio.h> 
 #include "y.tab.h" 
 extern int yylval; 
-%} 
+%}
 
 /* Rule Section */
 %% 
